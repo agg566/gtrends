@@ -1,7 +1,6 @@
 Voila
 openpyxl
 numpy
-io
 requests
 pandas
 ipywidgets
