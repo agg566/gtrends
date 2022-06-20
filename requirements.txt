@@ -1,4 +1,4 @@
-Voila
+voila==0.3.5
 openpyxl
 numpy
 requests
