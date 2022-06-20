@@ -1,7 +1,6 @@
 Voila
 openpyxl
 numpy
-time
 io
 requests
 pandas
