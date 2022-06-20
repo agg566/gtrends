@@ -1,0 +1,11 @@
+Voila
+openpyxl
+numpy
+time
+io
+requests
+pandas
+ipywidgets
+Tqdm
+pytrends
+IPython
