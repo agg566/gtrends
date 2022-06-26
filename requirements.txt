@@ -8,4 +8,3 @@ requests==2.27.1
 tqdm==4.64.0
 voila==0.3.5
 voila-gridstack==0.3.0
-pyperclip==1.8.2
