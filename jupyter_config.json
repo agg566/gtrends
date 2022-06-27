@@ -3,5 +3,13 @@
     "VoilaConfiguration": {
         "file_whitelist": [".*\\.csv"],
         "preheat_kernel": true
+      
+    },
+    "VoilaKernelManager": {
+        "kernel_pools_config": {
+            "gtr.ipynb": {
+                "pool_size": 3
+            }
+        }
     }
 }
