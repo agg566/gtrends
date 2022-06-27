@@ -1,6 +1,7 @@
 
 {
     "VoilaConfiguration": {
-        "file_whitelist": [".*\\.csv"]
+        "file_whitelist": [".*\\.csv"],
+        "preheat_kernel": true
     }
 }
